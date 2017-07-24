@@ -1,10 +1,21 @@
 {
     "name": "trustalk/trustalk",
     "type": "library",
-    "description": "Trustalk REST API Client.",
+    "description": "A PHP wrapper for Trustalk's API",
+    "keywords": ["trustalk", "api"],
+    "homepage": "https://github.com/trustalk/Trustalk-PHP.git",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Trustalk API Team",
+            "email": "info@trustalk.io"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
     "require-dev": {
-        "phpunit/phpunit": "*"
+        "phpunit/phpunit": "4.5.*"
     },
     "autoload": {
         "psr-4": {
