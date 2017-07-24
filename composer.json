@@ -3,6 +3,8 @@
     "type": "library",
     "description": "Trustalk REST API Client.",
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
     },
