@@ -1,7 +1,7 @@
 {
     "name": "trustalk/sdk",
     "type": "library",
-    "description": "A PHP wrapper for Trustalk's API",
+    "description": "A PHP wrapper for Trustalk's API.",
     "keywords": ["trustalk", "api"],
     "homepage": "https://github.com/trustalk/Trustalk-PHP.git",
     "license": "MIT",
