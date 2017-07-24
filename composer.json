@@ -1,5 +1,5 @@
 {
-    "name": "trustalk/trustalk",
+    "name": "trustalk/sdk",
     "type": "library",
     "description": "A PHP wrapper for Trustalk's API",
     "keywords": ["trustalk", "api"],
