@@ -3,10 +3,11 @@
     "type": "library",
     "description": "Trustalk REST API Client.",
     "license": "MIT",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "Trustalk\\": "sdk/"
         }
     }
